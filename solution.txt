@@ -1,0 +1,13 @@
+a. 81.42857142857143
+b. -0.9446540262404389
+c. Rotten             134.727273
+   Fresh              113.931034
+   Certified Fresh     48.240000
+d. Done (made the Decade column)
+e. 1960     2
+   1970     9
+   1980    27
+   1990    37
+   2000    30
+   2010    35
+f. Saved to .csv file
